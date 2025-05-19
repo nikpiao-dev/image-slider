@@ -1,5 +1,7 @@
 # image-slider
 
+![Image Slider Demo](image-slider.gif)
+
 Image Slideshow
 
 Description
